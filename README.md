@@ -14,6 +14,7 @@ Soy desarrollador de software especializado en C#, Java y bases de datos. Me enc
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 
 ## 📈 GitHub Stats
-![YulianV-dev GitHub stats](https://github-readme-stats.vercel.app/api?username=YulianV-dev&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YulianV-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
